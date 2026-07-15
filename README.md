@@ -1,140 +1,115 @@
-# 🚀 C++ Programming
+# 💻 C++ Programming
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus" />
-  <img src="https://img.shields.io/badge/Focus-OOP%20%7C%20DSA-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Learning-success?style=for-the-badge" />
-</p>
+A collection of my C++ programs, problem-solving practice, and projects. This repository documents my learning journey from C++ fundamentals to Object-Oriented Programming (OOP), STL, and Data Structures & Algorithms.
 
 ---
 
-## 👋 About This Repository
-
-Welcome to my **C++ Programming Repository**.
-
-This repository contains my journey of learning C++, practicing programming concepts, improving problem-solving skills, and developing projects using C++.
-
-It includes:
-- C++ practice programs
-- Logic building exercises
-- Object-Oriented Programming concepts
-- Competitive programming solutions
-- C++ based projects
-
----
-
-# 📂 Repository Structure
+## 📌 What's Inside
 
 ```
 CPP_Programming
 │
-├── 📁 Practice
-│   └── C++ programs for concept practice
+├── Practice
+│   ├── Basics
+│   ├── Functions
+│   ├── Arrays
+│   ├── Strings
+│   ├── Pointers
 │
-├── 📁 Competitive
-│   └── Problem-solving programs
-│       └── 📁 Project
-│           └── C++ projects
+├── Competitive
+|
+├── Projects
 │
-└── 📄 README.md
+└── README.md
 ```
 
 ---
 
-# 📚 Topics Covered
+## 📚 Topics Covered
 
-## 🔹 C++ Fundamentals
+### C++ Basics
+- Variables & Data Types
+- Operators
+- Conditional Statements
+- Loops
+- Functions
+- Arrays
+- Strings
+- Pointers
 
-✔ Variables & Data Types  
-✔ Operators  
-✔ Conditional Statements  
-✔ Loops  
-✔ Functions  
-✔ Arrays  
-✔ Strings  
-✔ Pointers  
+### Object-Oriented Programming
+- Classes & Objects
+- Constructors & Destructors
+- Encapsulation
+- Inheritance
+- Polymorphism
+- Abstraction
 
----
+### Advanced C++
+- Exception Handling
+- File Handling
+- Templates
+- STL
 
-## 🔹 Object-Oriented Programming (OOP)
-
-✔ Classes & Objects  
-✔ Constructors & Destructors  
-✔ Encapsulation  
-✔ Inheritance  
-✔ Polymorphism  
-✔ Abstraction  
-
----
-
-## 🔹 Advanced Concepts
-
-✔ Exception Handling  
-✔ File Handling  
-✔ Templates  
-✔ Standard Template Library (STL)
-
----
-
-## 🔹 STL Concepts
-
-✔ Vector  
-✔ List  
-✔ Stack  
-✔ Queue  
-✔ Map  
-✔ Set  
-✔ Algorithms  
+### Standard Template Library (STL)
+- Vector
+- List
+- Stack
+- Queue
+- Map
+- Set
+- Algorithms
 
 ---
 
-# 🎯 Goals
+## 🎯 Objectives
 
-🚀 Build strong C++ programming fundamentals  
-🚀 Improve logical thinking and problem-solving skills  
-🚀 Learn Object-Oriented Programming deeply  
-🚀 Practice Data Structures and Algorithms  
-🚀 Develop efficient C++ applications  
-
----
-
-# 🛠 Tools & Technologies
-
-| Tool | Usage |
-|------|-------|
-| 💻 C++ | Programming Language |
-| ⚙️ GCC / G++ | Compiler |
-| 📝 VS Code | Code Editor |
-| 🔧 Git & GitHub | Version Control |
+- Strengthen C++ fundamentals
+- Improve problem-solving skills
+- Learn Object-Oriented Programming
+- Practice Data Structures & Algorithms
+- Build C++ projects
 
 ---
 
-# ▶️ How to Run C++ Programs
+## 🛠 Tech Stack
 
-Compile:
+- **Language:** C++
+- **Compiler:** GCC / G++
+- **Editor:** Visual Studio Code
+- **Version Control:** Git & GitHub
+
+---
+
+## ▶️ Compile & Run
+
+Compile
 
 ```bash
-g++ FileName.cpp -o output
+g++ first.cpp -o output
 ```
 
-Run:
+Run
 
 ```bash
-./output
+./Jay Ganesh
 ```
 
 ---
 
-# 📈 Learning Journey
+## 📈 Progress
 
-This repository is continuously updated as I learn new C++ concepts, solve programming problems, and build projects.
-
-Every program represents a step towards becoming a better programmer. 🚀
+This repository is updated regularly as I learn new concepts, solve coding problems, and build projects using C++.
 
 ---
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 
 **Nilesh Chothave**
 
-💻 C++ Learner | 🚀 Problem Solver | 📚 Continuous Learner
+Aspiring Software Developer
+
+- 💻 C++
+- 📚 Data Structures & Algorithms
+- 🚀 Object-Oriented Programming
+- 🔧 Git & GitHub
