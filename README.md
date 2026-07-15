@@ -1,15 +1,15 @@
-💻 C++ Programming
+💻 **C++ Programming**
 
 A collection of my C++ practice programs, problem-solving solutions, and projects. This repository showcases my learning journey in C++, Object-Oriented Programming (OOP), Standard Template Library (STL), and Data Structures & Algorithms.
 
-🛠 Tech Stack
+🛠 **Tech Stack**
 
 * C++
 * GCC / G++
 * Visual Studio Code
 * Git & GitHub
 
-🚀 Topics
+🚀 **Topics**
 
 * C++ Fundamentals
 * Object-Oriented Programming
@@ -18,4 +18,4 @@ A collection of my C++ practice programs, problem-solving solutions, and project
 
 ---
 
-**Author:** Nilesh Chothave
+👨‍💻**Author:** *Nilesh Chothave*
