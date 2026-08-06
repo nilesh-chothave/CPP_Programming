@@ -1,0 +1,54 @@
+#include<iostream>
+using namespace std;
+
+// User define macro
+#define AGE_INVAID -1
+
+int CaluateTicketPrice(int iAge)
+{
+    // Input Filter
+    if(iAge < 0)
+    {
+        return AGE_INVAID;
+    }
+
+    if(iAge >= 0 && iAge <= 5)
+    {
+        return 0;
+    }
+    else if (iAge >= 6 && iAge <= 18)
+    {
+        return 500;
+    }
+    else if(iAge >= 19 && iAge <= 50)
+    {
+        return 900;
+    }
+    else
+    {
+        return 400;
+    }
+    
+}
+
+int main()
+{
+    int iValue = 0;
+    int iRet = 0;
+
+    cout<<"Please enter your age to calculate ticket prices : ";
+    cin>>iValue;
+
+    iRet = CaluateTicketPrice(iValue);
+    
+    if(iRet == AGE_INVAID)
+    {
+        cout<<"Please enter positive Age\n";
+    }
+    else
+    {
+        cout<<"Your ticket price will be "<<iRet<<" rupees \n";
+    }
+
+    return 0;
+}
