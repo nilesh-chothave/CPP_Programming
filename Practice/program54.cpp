@@ -12,7 +12,6 @@ void Display(int iNo)
     {
         cout<<iCnt<<"\t";
     }
-
     cout<<"\n";
 }
 
